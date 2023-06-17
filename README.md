@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Pandey</h1>
-<h3 align="center">A passionate frontend developer from India. I love solving DSA Problems as well.</h3>
+<h3 align="center">I'm Shashank Pandey, from MIT Manipal, EEE 2K21. My interests include solving DSA Problems and developing websites. I'm keen to learn new technologies, a software developer in the making.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank23-10" alt="shashank23-10" /></a> </p>
 
